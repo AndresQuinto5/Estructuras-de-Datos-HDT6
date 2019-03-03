@@ -1,7 +1,7 @@
 // UVG Algoritmos y estructuras de datos
 // Node.java
 // Autores: Luis Quezada 18028 & Andrea Paniagua 18733
-// Fecha: 3 de marzo 2019
+// Fecha: 8 de marzo 2019
 
 /**
 * <h1>Node </h1>
